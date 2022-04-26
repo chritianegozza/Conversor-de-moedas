@@ -1,9 +1,13 @@
 #    💵Conversor de moedas
+******************************************************************************************************************
+
+![image](https://user-images.githubusercontent.com/72118415/165213599-e47a4873-c594-4a82-bc92-1bbd69633fc2.png)
+
 
 *********************************************************************************************************************
 Projeto
 
-![image](https://user-images.githubusercontent.com/72118415/165213599-e47a4873-c594-4a82-bc92-1bbd69633fc2.png)
+Projeto foi feito durante a imersão dev da alura
 
 
 *********************************************************************************************************************
@@ -19,6 +23,6 @@ JAVASCRIPT
 
 *********************************************************************************************************************
 
-Caso queria conhecer o projeto feito na imersão dev, o mesmo está [aqui]()
+Caso queria conhecer o projeto feito na imersão dev, o mesmo está [aqui](https://codepen.io/chritianegozza/pen/jOyOMXz)
 *********************************************************************************************************************
 
